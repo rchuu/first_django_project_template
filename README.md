@@ -1,0 +1,2 @@
+# first_django_project_template
+Templates
